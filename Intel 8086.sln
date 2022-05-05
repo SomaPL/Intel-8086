@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intel 8086", "Intel 8086\Intel 8086.csproj", "{3E020868-F1FC-4E7F-8664-CC4D585100DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E020868-F1FC-4E7F-8664-CC4D585100DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E020868-F1FC-4E7F-8664-CC4D585100DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E020868-F1FC-4E7F-8664-CC4D585100DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E020868-F1FC-4E7F-8664-CC4D585100DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE33326B-07FB-4D40-8EF3-438AFCBE6B29}
+	EndGlobalSection
+EndGlobal
